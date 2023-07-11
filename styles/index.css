@@ -117,8 +117,8 @@ span{
     padding: 0px 200px 30px 150px;
 }
 div > li{
-    margin: 10px;
     list-style-type: none;
+    margin-right: 10px;
 }
 .section-5{
     text-align: center;
