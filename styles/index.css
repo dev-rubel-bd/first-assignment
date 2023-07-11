@@ -51,6 +51,7 @@ font-size: 15px;
 }
 .section-1-image{
     display: flex;
+    align-items: center;
     padding: 0px 150px 0px 150px;
 }
 .pink-flower-1{
@@ -77,5 +78,82 @@ font-size: 15px;
     background: rgba(71, 125, 17, 0.15);
     margin: 10px;
     
+
+}
+.section-2{
+    display: flex;
+    background-size: 1000px 320px;
+    background-color: rgba(39, 39, 39, 0.05);
+    padding: 30px 300px;
+    margin: 150px;
+    text-align: justify;
+
+}
+.align-icon{
+    align-items: center;
+    justify-items: center;
+}
+.section-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 250px 30px 250px;
+    background-color: rgba(229, 84, 115, 0.05);
+    
+
+}
+span{
+    color: #E55473;;
+}
+.section-3-details{
+    text-align: center;
+    padding: 0px 150px 0px 150px;
+
+}
+.section-4{
+    display: flex;
+    width: 350px;
+    height: 400px;
+    padding: 0px 200px 30px 150px;
+}
+div > li{
+    margin: 10px;
+    list-style-type: none;
+}
+.section-5{
+    text-align: center;
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 449px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 100px;
+
+}
+input{
+    width: 700px;
+    height: 64px;
+}
+.section-6{
+    background-color: rgba(17, 16, 16, 1);
+    text-align: center;
+    width: 1600px;
+    height: 400px;
+    padding: 200px 400px 0px 0px;
+}
+.section-6-title{
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    
+    
+}
+.section-6-information{
+    color: rgba(255, 247, 247, 0.6);
+    font-family: Lato;
+    font-size: 15px;
+
 
 }
