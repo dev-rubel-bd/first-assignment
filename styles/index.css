@@ -32,3 +32,20 @@ font-size: 15px;
     padding: 20px 43px;
     gap: 10px;
 }
+/* section related style */
+.section-1{
+    text-align: center;
+    padding: 100px 500px 100px 500px;
+}
+.section-1-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.section-1-information{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 15px;
+   
+}
